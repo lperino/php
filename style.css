@@ -1,0 +1,44 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table,
+td {
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
+
+
+pre{
+    background-color: black;
+    color:white;
+    margin-bottom: 0;
+}
+
+
+.explained{
+    padding: 2rem;
+    background-color:#502f4c;
+    color:white;
+}
+.resultat{
+    padding: 2rem;
+
+    background-color: #7bd389;
+    color:white;
+}
+span{
+    color:red;
+    font-size: 3rem;;
+}
+
+h4{
+    font-size:4rem;
+    text-align: center;
+    margin:6rem auto 2rem auto;
+}
